@@ -1,6 +1,6 @@
 {
   "name": "angular2-library-module-example",
-  "version": "1.0.6",
+  "version": "1.0.0",
   "description": "An example repository for building your own Angular 2 library",
   "main": "angular2-library-example.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IonIo/angular2-library-seed.git"
+    "url": "git+https://github.com/IonIo/angular2-library-module-example.git"
   },
   "keywords": [
     "Angular",
@@ -20,9 +20,9 @@
   "author": "igo1987@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IonIo/angular2-library-seed/issues"
+    "url": "https://github.com/IonIo/angular2-library-module-example/issues"
   },
-  "homepage": "https://github.com/IonIo/angular2-library-seed#readme",
+  "homepage": "https://github.com/IonIo/angular2-library-module-example#readme",
   "devDependencies": {
     "typescript": "^1.7.5"
   },
